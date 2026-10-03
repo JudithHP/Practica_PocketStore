@@ -34,16 +34,9 @@ La practica consiste en crear una aplicación web que muestra un catálogo de us
 
 2. Implementar el evento `fetch`, para recuperar información.  
    En el evento `fetch` hice que la aplicación primero busque la información en caché y, si no está guardada, la obtenga desde Internet.
+   ![Archivos almacenados en cache](images/cache.png)
+   ![Aplicación funcionando sin conexión](images/offline.png)
 
-**PENDIENTE:** Captura en `Application > Cache storage` mostrando los archivos guardados en la caché.
-
-![Archivos almacenados en cache](images/cache.png)
-
-**PENDIENTE:** Captura de la aplicación funcionando en modo `Offline`, mostrando que los usuarios siguen apareciendo sin conexión.
-
-![Aplicación funcionando sin conexión](images/offline.png)
-
----
 
 ### 4. El Contenido Dinámico (app.js)
 
@@ -52,13 +45,10 @@ La practica consiste en crear una aplicación web que muestra un catálogo de us
 
 ![Consumo de API con fetch](images/app.png)
 
----
 
 ### 5. Documentar el proyecto en un README.md
 
 1. Incluir un directorio con imágenes que ilustren el proceso de desarrollo.  
    Cree una carpeta `images` para guardar capturas del proceso y del funcionamiento de la aplicación.
-
-**PENDIENTE:** Si quieres evidenciar también este punto, puedes tomar una captura del explorador de VS Code donde se vea abierta la carpeta `images` con todas las evidencias guardadas.
 
 ![Directorio de evidencias](images/images.png)
