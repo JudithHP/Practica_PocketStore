@@ -1,0 +1,21 @@
+{
+    "name": "PocketStore",
+    "short_name": "PocketStore",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#673ab7",
+
+    "icons": [
+        {
+            "src": "icons/icon-bag.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-carshop.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
